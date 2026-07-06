@@ -147,30 +147,7 @@ aws-lambda-database-automation/
 
 ---
 
-## Screenshots
 
-### Lambda Function
-Screenshot of the created Lambda function.
-
-### Lambda Code
-Screenshot of the Python code running inside Lambda.
-
-### S3 Bucket
-Screenshot of the S3 bucket used for file uploads.
-
-### Uploaded Employee File
-Screenshot showing the uploaded JSON file.
-
-### DynamoDB Table
-Screenshot of the created DynamoDB table.
-
-### Stored Employee Record
-Screenshot showing employee information successfully inserted into DynamoDB.
-
-### CloudWatch Logs
-Screenshot showing successful Lambda execution logs.
-
----
 
 ## Outcome
 
@@ -208,4 +185,4 @@ Through this project I gained practical experience with:
 
 **Ashi Chauhan**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/Ashichauhan98
